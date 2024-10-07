@@ -1,0 +1,609 @@
+2024-10-06 13:33:41,536 [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:33:54,253 [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:33:54,258 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:33:54,270 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:33:54,749 [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:33:54,749 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:33:54,752 [INFO] starting worker
+2024-10-06 13:33:55,253 [INFO] registered worker
+2024-10-06 13:34:08,989 [INFO] shutting down worker
+2024-10-06 13:34:09,638 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:34:09,643 [INFO] starting worker
+2024-10-06 13:34:09,973 [INFO] registered worker
+2024-10-06 13:34:25,168 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:34:25,179 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:34:25,679 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:34:25,683 [INFO] starting worker
+2024-10-06 13:34:25,980 [INFO] registered worker
+2024-10-06 13:35:21,594 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:35:21,611 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:35:22,077 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:35:22,087 [INFO] starting worker
+2024-10-06 13:35:22,385 [INFO] registered worker
+2024-10-06 13:35:54,481 [INFO] shutting down worker
+2024-10-06 13:35:55,158 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:35:55,162 [INFO] starting worker
+2024-10-06 13:35:55,472 [INFO] registered worker
+2024-10-06 13:36:04,755 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:36:04,767 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:36:05,234 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:36:05,241 [INFO] starting worker
+2024-10-06 13:36:05,542 [INFO] registered worker
+2024-10-06 13:36:20,060 [INFO] shutting down worker
+2024-10-06 13:36:20,751 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:36:20,756 [INFO] starting worker
+2024-10-06 13:36:21,058 [INFO] registered worker
+2024-10-06 13:36:25,174 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:36:25,186 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:36:25,681 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:36:25,689 [INFO] starting worker
+2024-10-06 13:36:25,981 [INFO] registered worker
+2024-10-06 13:36:40,764 [INFO] shutting down worker
+2024-10-06 13:36:41,450 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:36:41,450 [INFO] __mp_main__
+2024-10-06 13:36:41,451 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:36:41,457 [INFO] starting worker
+2024-10-06 13:36:41,753 [INFO] registered worker
+2024-10-06 13:37:11,946 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:37:11,946 [INFO] __main__
+2024-10-06 13:37:11,950 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:37:11,962 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:37:12,458 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:37:12,458 [INFO] __mp_main__
+2024-10-06 13:37:12,460 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:37:12,465 [INFO] starting worker
+2024-10-06 13:37:12,775 [INFO] registered worker
+2024-10-06 13:37:29,050 [INFO] shutting down worker
+2024-10-06 13:37:29,750 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:37:29,751 [INFO] __mp_main__
+2024-10-06 13:37:29,751 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:37:29,756 [INFO] starting worker
+2024-10-06 13:37:30,077 [INFO] registered worker
+2024-10-06 13:37:30,400 [INFO] shutting down worker
+2024-10-06 13:37:30,946 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:37:30,946 [INFO] __mp_main__
+2024-10-06 13:37:30,946 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:37:30,949 [INFO] starting worker
+2024-10-06 13:37:31,255 [INFO] registered worker
+2024-10-06 13:37:37,108 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:37:37,108 [INFO] __main__
+2024-10-06 13:37:37,108 [INFO] 222222
+2024-10-06 13:37:37,114 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:37:37,122 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:37:37,580 [INFO] !!!!!!!!!!!!!!!!!!!!
+2024-10-06 13:37:37,580 [INFO] __mp_main__
+2024-10-06 13:37:37,581 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:37:37,588 [INFO] starting worker
+2024-10-06 13:37:37,894 [INFO] registered worker
+2024-10-06 13:38:14,498 [INFO] shutting down worker
+2024-10-06 13:38:15,183 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:38:15,188 [INFO] starting worker
+2024-10-06 13:38:15,411 [INFO] shutting down worker
+2024-10-06 13:38:15,978 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:38:15,981 [INFO] starting worker
+2024-10-06 13:38:16,277 [INFO] registered worker
+2024-10-06 13:39:08,186 [INFO] Start voice assistant
+2024-10-06 13:39:08,190 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:39:08,199 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:39:08,666 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:39:08,670 [INFO] starting worker
+2024-10-06 13:39:08,978 [INFO] registered worker
+2024-10-06 13:51:29,214 [INFO] shutting down worker
+2024-10-06 13:51:29,944 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:51:29,948 [INFO] starting worker
+2024-10-06 13:51:30,260 [INFO] registered worker
+2024-10-06 13:51:40,733 [INFO] Start voice assistant
+2024-10-06 13:51:40,739 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:51:40,747 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:51:41,264 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:51:41,273 [INFO] starting worker
+2024-10-06 13:51:41,581 [INFO] registered worker
+2024-10-06 13:53:51,441 [INFO] shutting down worker
+2024-10-06 13:53:52,165 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:53:52,169 [INFO] starting worker
+2024-10-06 13:53:52,517 [INFO] registered worker
+2024-10-06 13:53:59,623 [INFO] Start voice assistant
+2024-10-06 13:53:59,627 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:53:59,643 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 13:54:00,103 [DEBUG] Using selector: KqueueSelector
+2024-10-06 13:54:00,106 [INFO] starting worker
+2024-10-06 13:54:00,471 [INFO] registered worker
+2024-10-06 13:56:34,629 [WARNING] failed to connect to livekit, retrying in 0s: worker connection closed unexpectedly
+2024-10-06 13:56:34,943 [INFO] registered worker
+2024-10-06 14:36:06,363 [INFO] shutting down worker
+2024-10-06 14:36:07,410 [DEBUG] Using selector: KqueueSelector
+2024-10-06 14:36:07,416 [INFO] starting worker
+2024-10-06 14:36:07,687 [INFO] registered worker
+2024-10-06 14:36:35,963 [INFO] shutting down worker
+2024-10-06 14:36:36,663 [DEBUG] Using selector: KqueueSelector
+2024-10-06 14:36:36,667 [INFO] starting worker
+2024-10-06 14:36:37,481 [INFO] registered worker
+2024-10-06 14:36:48,146 [INFO] shutting down worker
+2024-10-06 14:36:48,835 [DEBUG] Using selector: KqueueSelector
+2024-10-06 14:36:48,842 [INFO] starting worker
+2024-10-06 14:36:49,096 [INFO] registered worker
+2024-10-06 14:37:36,473 [INFO] Start voice assistant
+2024-10-06 14:37:36,479 [DEBUG] Using selector: KqueueSelector
+2024-10-06 14:37:36,491 [DEV] Watching /Users/dmitriykorovaev/voice-assistant
+2024-10-06 14:37:36,946 [DEBUG] Using selector: KqueueSelector
+2024-10-06 14:37:36,956 [INFO] starting worker
+2024-10-06 14:37:37,810 [INFO] registered worker
+2024-10-06 15:50:14,671 [INFO] Start voice assistant
+2024-10-06 15:50:14,681 [DEBUG] Using selector: KqueueSelector
+2024-10-06 15:50:14,687 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-06 15:50:15,189 [DEBUG] Using selector: KqueueSelector
+2024-10-06 15:50:15,193 [INFO] starting worker
+2024-10-06 15:50:15,470 [INFO] registered worker
+2024-10-06 15:52:10,506 [INFO] Start voice assistant
+2024-10-06 15:52:10,510 [DEBUG] Using selector: KqueueSelector
+2024-10-06 15:52:10,515 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-06 15:52:10,996 [DEBUG] Using selector: KqueueSelector
+2024-10-06 15:52:10,999 [INFO] starting worker
+2024-10-06 15:52:11,261 [INFO] registered worker
+2024-10-07 09:13:26,789 [INFO] Start voice assistant
+2024-10-07 09:13:26,797 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:13:26,809 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-07 09:13:27,272 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:13:27,280 [INFO] starting worker
+2024-10-07 09:13:27,610 [INFO] registered worker
+2024-10-07 09:18:40,608 [INFO] received job request
+2024-10-07 09:18:41,278 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:18:41,279 [INFO] initializing process
+2024-10-07 09:18:41,279 [INFO] prewarming
+2024-10-07 09:18:41,278 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:18:41,279 [INFO] initializing process
+2024-10-07 09:18:41,279 [INFO] prewarming
+2024-10-07 09:18:41,432 [INFO] process initialized
+2024-10-07 09:18:41,432 [INFO] process initialized
+2024-10-07 09:18:41,435 [INFO] function entrypoint
+2024-10-07 09:18:41,435 [INFO] connecting to room roomName
+2024-10-07 09:18:41,435 [INFO] function entrypoint
+2024-10-07 09:18:41,435 [INFO] connecting to room roomName
+2024-10-07 09:18:41,455 [INFO] livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.11.3
+2024-10-07 09:18:41,456 [INFO] livekit_ffi::cabi:27:livekit_ffi::cabi - initializing ffi server v0.11.3
+2024-10-07 09:18:41,476 [INFO] livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://hworld-llama-7miqubae.livekit.cloud/rtc?sdk=rust&protocol=15&auto_subscribe=0&adaptive_stream=0&access_token=...
+2024-10-07 09:18:41,683 [DEBUG] rustls::anchors:150:rustls::anchors - add_parsable_certificates processed 160 valid and 0 invalid certs
+2024-10-07 09:18:41,683 [DEBUG] tokio_tungstenite::tls::encryption::rustls:103:tokio_tungstenite::tls::encryption::rustls - Added 160/160 native root certificates (ignored 0)
+2024-10-07 09:18:41,683 [DEBUG] rustls::client::hs:73:rustls::client::hs - No cached session for DnsName("hworld-llama-7miqubae.livekit.cloud")
+2024-10-07 09:18:41,683 [DEBUG] rustls::client::hs:132:rustls::client::hs - Not resuming any session
+2024-10-07 09:18:41,724 [DEBUG] rustls::client::hs:615:rustls::client::hs - Using ciphersuite TLS13_AES_128_GCM_SHA256
+2024-10-07 09:18:41,724 [DEBUG] rustls::client::tls13:142:rustls::client::tls13 - Not resuming
+2024-10-07 09:18:41,724 [DEBUG] rustls::client::tls13:381:rustls::client::tls13 - TLS1.3 encrypted extensions: []
+2024-10-07 09:18:41,724 [DEBUG] rustls::client::hs:472:rustls::client::hs - ALPN protocol is None
+2024-10-07 09:18:41,847 [DEBUG] tungstenite::handshake::client:95:tungstenite::handshake::client - Client handshake done.
+2024-10-07 09:18:42,339 [INFO] starting voice assistant for participant voice_assistant_user_4860
+2024-10-07 09:18:42,339 [INFO] starting voice assistant for participant voice_assistant_user_4860
+2024-10-07 09:18:42,344 [DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-07 09:18:42,345 [DEBUG] load_verify_locations cafile='/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/certifi/cacert.pem'
+2024-10-07 09:18:42,386 [DEBUG] http_session(): creating a new httpclient ctx
+2024-10-07 09:18:42,386 [DEBUG] http_session(): creating a new httpclient ctx
+2024-10-07 09:18:44,403 [DEBUG] received first TTS frame
+2024-10-07 09:18:44,403 [DEBUG] received first TTS frame
+2024-10-07 09:18:44,403 [DEBUG] started playing the first frame
+2024-10-07 09:18:44,403 [DEBUG] started playing the first frame
+2024-10-07 09:18:45,948 [DEBUG] playout finished
+2024-10-07 09:18:45,948 [DEBUG] committed agent speech
+2024-10-07 09:18:45,948 [DEBUG] playout finished
+2024-10-07 09:18:45,948 [DEBUG] committed agent speech
+2024-10-07 09:18:46,379 [DEBUG] synthesizing agent reply
+2024-10-07 09:18:46,379 [DEBUG] synthesizing agent reply
+2024-10-07 09:18:46,433 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'Ты — голосовой помощник, созданный LiveKit. Твой интерфейс с пользователями будет голосовым.Ты должны использовать короткие и лаконичные ответы и избегать использования непроизносимых знаков препинания.Ты был создан в качестве демоверсии для демонстрации возможностей фреймворка агентов LiveKit.'}, {'role': 'assistant', 'content': ' Hey, how can I help you today?'}, {'role': 'user', 'content': 'Help you today.'}], 'model': 'gpt-4o-mini', 'n': 1, 'stream': True, 'temperature': None}}
+2024-10-07 09:18:46,436 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=10 socket_options=None
+2024-10-07 09:18:46,586 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x1301fab20>
+2024-10-07 09:18:46,586 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x107d642e0> server_hostname='api.openai.com' timeout=10
+2024-10-07 09:18:46,669 [DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x130227e80>
+2024-10-07 09:18:46,669 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-10-07 09:18:46,670 [DEBUG] send_request_headers.complete
+2024-10-07 09:18:46,670 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-10-07 09:18:46,670 [DEBUG] send_request_body.complete
+2024-10-07 09:18:46,670 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-10-07 09:18:46,706 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 403, b'Forbidden', [(b'Date', b'Mon, 07 Oct 2024 06:18:46 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Set-Cookie', b'__cf_bm=XWTcAnqynPBGNt._5nlevOTkQVPxay4BuPZGccZp3Fo-1728281926-1.0.1.1-4GcygtFiqFOB3wK_1NxWlQLOfpMl_Qsq5gAsRN.dS.IXxKjlBEpL8VjuUT5LTiJCEV3rH7snHwWgl7zzKcc1mw; path=/; expires=Mon, 07-Oct-24 06:48:46 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Vary', b'Accept-Encoding'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8cebc699cb1d9d39-DME'), (b'Content-Encoding', b'gzip')])
+2024-10-07 09:18:46,707 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2024-10-07 09:18:46,707 [DEBUG] HTTP Request: POST https://api.openai.com/v1/chat/completions "403 Forbidden"
+2024-10-07 09:18:46,707 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1605, in _request
+    response.raise_for_status()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/httpx/_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2024-10-07 09:18:46,713 [DEBUG] Not retrying
+2024-10-07 09:18:46,714 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-10-07 09:18:46,714 [DEBUG] receive_response_body.complete
+2024-10-07 09:18:46,714 [DEBUG] response_closed.started
+2024-10-07 09:18:46,714 [DEBUG] response_closed.complete
+2024-10-07 09:18:46,714 [DEBUG] Re-raising status error
+2024-10-07 09:18:46,716 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:18:46,716 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:18:46,756 [DEBUG] validated agent reply
+2024-10-07 09:18:46,756 [DEBUG] validated agent reply
+2024-10-07 09:18:46,757 [DEBUG] playout finished
+2024-10-07 09:18:46,757 [DEBUG] playout finished
+2024-10-07 09:18:46,757 [DEBUG] committed user transcript
+2024-10-07 09:18:46,757 [DEBUG] committed agent speech
+2024-10-07 09:18:46,757 [DEBUG] committed user transcript
+2024-10-07 09:18:46,757 [DEBUG] committed agent speech
+2024-10-07 09:18:48,871 [DEBUG] synthesizing agent reply
+2024-10-07 09:18:48,871 [DEBUG] synthesizing agent reply
+2024-10-07 09:18:48,883 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'Ты — голосовой помощник, созданный LiveKit. Твой интерфейс с пользователями будет голосовым.Ты должны использовать короткие и лаконичные ответы и избегать использования непроизносимых знаков препинания.Ты был создан в качестве демоверсии для демонстрации возможностей фреймворка агентов LiveKit.'}, {'role': 'assistant', 'content': ' Hey, how can I help you today?'}, {'role': 'user', 'content': 'Help you today.'}, {'role': 'assistant', 'content': ''}, {'role': 'user', 'content': 'Previous.'}], 'model': 'gpt-4o-mini', 'n': 1, 'stream': True, 'temperature': None}}
+2024-10-07 09:18:48,885 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-10-07 09:18:48,885 [DEBUG] send_request_headers.complete
+2024-10-07 09:18:48,885 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-10-07 09:18:48,886 [DEBUG] send_request_body.complete
+2024-10-07 09:18:48,887 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-10-07 09:18:48,916 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 403, b'Forbidden', [(b'Date', b'Mon, 07 Oct 2024 06:18:48 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Vary', b'Accept-Encoding'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8cebc6a7ae9e9d39-DME'), (b'Content-Encoding', b'gzip')])
+2024-10-07 09:18:48,917 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2024-10-07 09:18:48,917 [DEBUG] HTTP Request: POST https://api.openai.com/v1/chat/completions "403 Forbidden"
+2024-10-07 09:18:48,917 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1605, in _request
+    response.raise_for_status()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/httpx/_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2024-10-07 09:18:48,917 [DEBUG] Not retrying
+2024-10-07 09:18:48,917 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-10-07 09:18:48,917 [DEBUG] receive_response_body.complete
+2024-10-07 09:18:48,918 [DEBUG] response_closed.started
+2024-10-07 09:18:48,918 [DEBUG] response_closed.complete
+2024-10-07 09:18:48,918 [DEBUG] Re-raising status error
+2024-10-07 09:18:48,919 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:18:48,919 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:18:49,245 [DEBUG] validated agent reply
+2024-10-07 09:18:49,245 [DEBUG] validated agent reply
+2024-10-07 09:18:49,247 [DEBUG] playout finished
+2024-10-07 09:18:49,248 [DEBUG] committed user transcript
+2024-10-07 09:18:49,247 [DEBUG] playout finished
+2024-10-07 09:18:49,248 [DEBUG] committed agent speech
+2024-10-07 09:18:49,248 [DEBUG] committed user transcript
+2024-10-07 09:18:49,248 [DEBUG] committed agent speech
+2024-10-07 09:20:23,323 [INFO] Start voice assistant
+2024-10-07 09:20:23,334 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:20:23,341 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-07 09:20:23,813 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:20:23,822 [INFO] starting worker
+2024-10-07 09:20:24,186 [INFO] registered worker
+2024-10-07 09:22:07,863 [INFO] shutting down worker
+2024-10-07 09:23:10,743 [INFO] Start voice assistant
+2024-10-07 09:23:10,747 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:23:10,756 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-07 09:23:11,217 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:23:11,220 [INFO] starting worker
+2024-10-07 09:23:11,561 [INFO] registered worker
+2024-10-07 09:24:26,521 [INFO] shutting down worker
+2024-10-07 09:24:55,243 [INFO] Start voice assistant
+2024-10-07 09:24:55,247 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:24:55,257 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-07 09:24:55,717 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:24:55,724 [INFO] starting worker
+2024-10-07 09:24:56,032 [INFO] registered worker
+2024-10-07 09:25:19,281 [INFO] received job request
+2024-10-07 09:25:19,913 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:25:19,913 [INFO] initializing process
+2024-10-07 09:25:19,913 [INFO] prewarming
+2024-10-07 09:25:19,913 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:25:19,913 [INFO] initializing process
+2024-10-07 09:25:19,913 [INFO] prewarming
+2024-10-07 09:25:20,012 [INFO] process initialized
+2024-10-07 09:25:20,012 [INFO] process initialized
+2024-10-07 09:25:20,016 [INFO] function entrypoint
+2024-10-07 09:25:20,016 [INFO] connecting to room roomName
+2024-10-07 09:25:20,016 [INFO] livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.11.3
+2024-10-07 09:25:20,017 [INFO] livekit_ffi::cabi:27:livekit_ffi::cabi - initializing ffi server v0.11.3
+2024-10-07 09:25:20,016 [INFO] function entrypoint
+2024-10-07 09:25:20,016 [INFO] connecting to room roomName
+2024-10-07 09:25:20,021 [INFO] livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://hworld-llama-7miqubae.livekit.cloud/rtc?sdk=rust&protocol=15&auto_subscribe=0&adaptive_stream=0&access_token=...
+2024-10-07 09:25:20,229 [DEBUG] rustls::anchors:150:rustls::anchors - add_parsable_certificates processed 160 valid and 0 invalid certs
+2024-10-07 09:25:20,231 [DEBUG] tokio_tungstenite::tls::encryption::rustls:103:tokio_tungstenite::tls::encryption::rustls - Added 160/160 native root certificates (ignored 0)
+2024-10-07 09:25:20,231 [DEBUG] rustls::client::hs:73:rustls::client::hs - No cached session for DnsName("hworld-llama-7miqubae.livekit.cloud")
+2024-10-07 09:25:20,231 [DEBUG] rustls::client::hs:132:rustls::client::hs - Not resuming any session
+2024-10-07 09:25:20,271 [DEBUG] rustls::client::hs:615:rustls::client::hs - Using ciphersuite TLS13_AES_128_GCM_SHA256
+2024-10-07 09:25:20,271 [DEBUG] rustls::client::tls13:142:rustls::client::tls13 - Not resuming
+2024-10-07 09:25:20,272 [DEBUG] rustls::client::tls13:381:rustls::client::tls13 - TLS1.3 encrypted extensions: []
+2024-10-07 09:25:20,272 [DEBUG] rustls::client::hs:472:rustls::client::hs - ALPN protocol is None
+2024-10-07 09:25:20,396 [DEBUG] tungstenite::handshake::client:95:tungstenite::handshake::client - Client handshake done.
+2024-10-07 09:25:20,916 [INFO] starting voice assistant for participant voice_assistant_user_3011
+2024-10-07 09:25:20,916 [INFO] starting voice assistant for participant voice_assistant_user_3011
+2024-10-07 09:25:20,921 [DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-07 09:25:20,922 [DEBUG] load_verify_locations cafile='/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/certifi/cacert.pem'
+2024-10-07 09:25:20,963 [DEBUG] http_session(): creating a new httpclient ctx
+2024-10-07 09:25:20,963 [DEBUG] http_session(): creating a new httpclient ctx
+2024-10-07 09:25:22,391 [DEBUG] received first TTS frame
+2024-10-07 09:25:22,392 [DEBUG] started playing the first frame
+2024-10-07 09:25:22,391 [DEBUG] received first TTS frame
+2024-10-07 09:25:22,392 [DEBUG] started playing the first frame
+2024-10-07 09:25:24,004 [DEBUG] interrupting synthesis/playout
+2024-10-07 09:25:24,004 [DEBUG] interrupting synthesis/playout
+2024-10-07 09:25:24,008 [DEBUG] playout finished
+2024-10-07 09:25:24,008 [DEBUG] committed agent speech
+2024-10-07 09:25:24,008 [DEBUG] playout finished
+2024-10-07 09:25:24,008 [DEBUG] committed agent speech
+2024-10-07 09:25:24,218 [DEBUG] synthesizing agent reply
+2024-10-07 09:25:24,218 [DEBUG] synthesizing agent reply
+2024-10-07 09:25:24,269 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'Ты — голосовой помощник, созданный LiveKit. Твой интерфейс с пользователями будет голосовым.Ты должны использовать короткие и лаконичные ответы и избегать использования непроизносимых знаков препинания.Ты был создан в качестве демоверсии для демонстрации возможностей фреймворка агентов LiveKit.'}, {'role': 'assistant', 'content': ' Hey, how can I help you today?...'}, {'role': 'user', 'content': 'They help you to'}], 'model': 'gpt-4o-mini', 'n': 1, 'stream': True, 'temperature': None}}
+2024-10-07 09:25:24,271 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=10 socket_options=None
+2024-10-07 09:25:24,424 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x1667d96a0>
+2024-10-07 09:25:24,424 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x1141a82e0> server_hostname='api.openai.com' timeout=10
+2024-10-07 09:25:24,487 [DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x1141a4f70>
+2024-10-07 09:25:24,489 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-10-07 09:25:24,490 [DEBUG] send_request_headers.complete
+2024-10-07 09:25:24,490 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-10-07 09:25:24,491 [DEBUG] send_request_body.complete
+2024-10-07 09:25:24,491 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-10-07 09:25:24,523 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 403, b'Forbidden', [(b'Date', b'Mon, 07 Oct 2024 06:25:24 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Set-Cookie', b'__cf_bm=9L69ibvGwhFxhb2COdeNCgiR_86Pzrwuh2rnRfS3Lhg-1728282324-1.0.1.1-ShJLPkodyK2fcfxKAckyrGM6f2F1dnvSad_e99TmxcpA1yrlK1Sz6JwNKADjMjk3eGanp78G0ODB1Ig38BAzug; path=/; expires=Mon, 07-Oct-24 06:55:24 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Vary', b'Accept-Encoding'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8cebd0502dd47b7f-DME'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-07 09:25:24,526 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2024-10-07 09:25:24,526 [DEBUG] HTTP Request: POST https://api.openai.com/v1/chat/completions "403 Forbidden"
+2024-10-07 09:25:24,526 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1605, in _request
+    response.raise_for_status()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/httpx/_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2024-10-07 09:25:24,534 [DEBUG] Not retrying
+2024-10-07 09:25:24,534 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-10-07 09:25:24,535 [DEBUG] receive_response_body.complete
+2024-10-07 09:25:24,535 [DEBUG] response_closed.started
+2024-10-07 09:25:24,535 [DEBUG] response_closed.complete
+2024-10-07 09:25:24,535 [DEBUG] Re-raising status error
+2024-10-07 09:25:24,538 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:25:24,538 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:25:25,220 [DEBUG] validated agent reply
+2024-10-07 09:25:25,220 [DEBUG] validated agent reply
+2024-10-07 09:25:25,223 [DEBUG] playout finished
+2024-10-07 09:25:25,224 [DEBUG] committed user transcript
+2024-10-07 09:25:25,223 [DEBUG] playout finished
+2024-10-07 09:25:25,224 [DEBUG] committed agent speech
+2024-10-07 09:25:25,224 [DEBUG] committed user transcript
+2024-10-07 09:25:25,224 [DEBUG] committed agent speech
+2024-10-07 09:25:27,529 [DEBUG] synthesizing agent reply
+2024-10-07 09:25:27,529 [DEBUG] synthesizing agent reply
+2024-10-07 09:25:27,540 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'Ты — голосовой помощник, созданный LiveKit. Твой интерфейс с пользователями будет голосовым.Ты должны использовать короткие и лаконичные ответы и избегать использования непроизносимых знаков препинания.Ты был создан в качестве демоверсии для демонстрации возможностей фреймворка агентов LiveKit.'}, {'role': 'assistant', 'content': ' Hey, how can I help you today?...'}, {'role': 'user', 'content': 'They help you to'}, {'role': 'assistant', 'content': ''}, {'role': 'user', 'content': 'Vivint, cut regular.'}], 'model': 'gpt-4o-mini', 'n': 1, 'stream': True, 'temperature': None}}
+2024-10-07 09:25:27,541 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-10-07 09:25:27,542 [DEBUG] send_request_headers.complete
+2024-10-07 09:25:27,542 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-10-07 09:25:27,542 [DEBUG] send_request_body.complete
+2024-10-07 09:25:27,542 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-10-07 09:25:27,570 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 403, b'Forbidden', [(b'Date', b'Mon, 07 Oct 2024 06:25:27 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Vary', b'Accept-Encoding'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8cebd0633f907b7f-DME'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-07 09:25:27,570 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2024-10-07 09:25:27,571 [DEBUG] HTTP Request: POST https://api.openai.com/v1/chat/completions "403 Forbidden"
+2024-10-07 09:25:27,571 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1605, in _request
+    response.raise_for_status()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/httpx/_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '403 Forbidden' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2024-10-07 09:25:27,571 [DEBUG] Not retrying
+2024-10-07 09:25:27,571 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-10-07 09:25:27,571 [DEBUG] receive_response_body.complete
+2024-10-07 09:25:27,572 [DEBUG] response_closed.started
+2024-10-07 09:25:27,572 [DEBUG] response_closed.complete
+2024-10-07 09:25:27,572 [DEBUG] Re-raising status error
+2024-10-07 09:25:27,573 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:25:27,573 [ERROR] Error in _stream_synthesis_task
+Traceback (most recent call last):
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/log.py", line 16, in async_fn_logs
+    return await fn(*args, **kwargs)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/agent_output.py", line 272, in _stream_synthesis_task
+    async for seg in tts_source:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/utils/aio/itertools.py", line 47, in tee_peer
+    item = await iterator.__anext__()
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/agents/pipeline/pipeline_agent.py", line 847, in _llm_stream_to_str_iterable
+    async for chunk in stream:
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/livekit/plugins/openai/llm.py", line 478, in __anext__
+    self._oai_stream = await self._awaitable_oai_stream
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 1490, in create
+    return await self._post(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1831, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1525, in request
+    return await self._request(
+  File "/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1626, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
+2024-10-07 09:25:27,904 [DEBUG] validated agent reply
+2024-10-07 09:25:27,904 [DEBUG] validated agent reply
+2024-10-07 09:25:27,906 [DEBUG] playout finished
+2024-10-07 09:25:27,906 [DEBUG] committed user transcript
+2024-10-07 09:25:27,906 [DEBUG] playout finished
+2024-10-07 09:25:27,907 [DEBUG] committed agent speech
+2024-10-07 09:25:27,906 [DEBUG] committed user transcript
+2024-10-07 09:25:27,907 [DEBUG] committed agent speech
+2024-10-07 09:26:00,032 [DEBUG] tungstenite::protocol:666:tungstenite::protocol - Received close frame: Some(CloseFrame { code: Normal, reason: "" })
+2024-10-07 09:26:00,037 [INFO] livekit::room:1027:livekit::room - disconnected from room with reason: RoomClosed
+2024-10-07 09:26:00,038 [DEBUG] shutting down job task
+2024-10-07 09:26:00,039 [DEBUG] http_session(): closing the httpclient ctx
+2024-10-07 09:26:00,039 [INFO] job exiting
+2024-10-07 09:26:00,038 [DEBUG] shutting down job task
+2024-10-07 09:26:00,039 [DEBUG] http_session(): closing the httpclient ctx
+2024-10-07 09:38:35,859 [INFO] shutting down worker
+2024-10-07 09:43:51,427 [INFO] Start voice assistant
+2024-10-07 09:43:51,435 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:43:51,448 [DEV] Watching /Users/dmitriykorovaev/livekit/voice-assistant
+2024-10-07 09:43:51,912 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:43:51,919 [INFO] starting worker
+2024-10-07 09:43:52,242 [INFO] registered worker
+2024-10-07 09:44:13,547 [INFO] received job request
+2024-10-07 09:44:14,192 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:44:14,193 [INFO] initializing process
+2024-10-07 09:44:14,193 [INFO] prewarming
+2024-10-07 09:44:14,192 [DEBUG] Using selector: KqueueSelector
+2024-10-07 09:44:14,193 [INFO] initializing process
+2024-10-07 09:44:14,362 [INFO] process initialized
+2024-10-07 09:44:14,193 [INFO] prewarming
+2024-10-07 09:44:14,362 [INFO] process initialized
+2024-10-07 09:44:14,365 [INFO] function entrypoint
+2024-10-07 09:44:14,365 [INFO] connecting to room roomName
+2024-10-07 09:44:14,365 [INFO] function entrypoint
+2024-10-07 09:44:14,365 [INFO] connecting to room roomName
+2024-10-07 09:44:14,373 [INFO] livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.11.3
+2024-10-07 09:44:14,373 [INFO] livekit_ffi::cabi:27:livekit_ffi::cabi - initializing ffi server v0.11.3
+2024-10-07 09:44:14,388 [INFO] livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://hworld-llama-7miqubae.livekit.cloud/rtc?sdk=rust&protocol=15&auto_subscribe=0&adaptive_stream=0&access_token=...
+2024-10-07 09:44:14,649 [DEBUG] rustls::anchors:150:rustls::anchors - add_parsable_certificates processed 160 valid and 0 invalid certs
+2024-10-07 09:44:14,649 [DEBUG] tokio_tungstenite::tls::encryption::rustls:103:tokio_tungstenite::tls::encryption::rustls - Added 160/160 native root certificates (ignored 0)
+2024-10-07 09:44:14,649 [DEBUG] rustls::client::hs:73:rustls::client::hs - No cached session for DnsName("hworld-llama-7miqubae.livekit.cloud")
+2024-10-07 09:44:14,650 [DEBUG] rustls::client::hs:132:rustls::client::hs - Not resuming any session
+2024-10-07 09:44:14,699 [DEBUG] rustls::client::hs:615:rustls::client::hs - Using ciphersuite TLS13_AES_128_GCM_SHA256
+2024-10-07 09:44:14,699 [DEBUG] rustls::client::tls13:142:rustls::client::tls13 - Not resuming
+2024-10-07 09:44:14,699 [DEBUG] rustls::client::tls13:381:rustls::client::tls13 - TLS1.3 encrypted extensions: []
+2024-10-07 09:44:14,699 [DEBUG] rustls::client::hs:472:rustls::client::hs - ALPN protocol is None
+2024-10-07 09:44:14,837 [DEBUG] tungstenite::handshake::client:95:tungstenite::handshake::client - Client handshake done.
+2024-10-07 09:44:15,114 [INFO] starting voice assistant for participant voice_assistant_user_5550
+2024-10-07 09:44:15,114 [INFO] starting voice assistant for participant voice_assistant_user_5550
+2024-10-07 09:44:15,118 [DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-07 09:44:15,118 [DEBUG] load_verify_locations cafile='/Users/dmitriykorovaev/livekit/voice-assistant/venv/lib/python3.9/site-packages/certifi/cacert.pem'
+2024-10-07 09:44:15,168 [DEBUG] http_session(): creating a new httpclient ctx
+2024-10-07 09:44:15,168 [DEBUG] http_session(): creating a new httpclient ctx
+2024-10-07 09:44:16,658 [DEBUG] received first TTS frame
+2024-10-07 09:44:16,658 [DEBUG] received first TTS frame
+2024-10-07 09:44:16,659 [DEBUG] started playing the first frame
+2024-10-07 09:44:16,659 [DEBUG] started playing the first frame
+2024-10-07 09:44:18,542 [DEBUG] playout finished
+2024-10-07 09:44:18,543 [DEBUG] committed agent speech
+2024-10-07 09:44:18,542 [DEBUG] playout finished
+2024-10-07 09:44:18,543 [DEBUG] committed agent speech
